@@ -92,5 +92,7 @@ specifically:
 Troubleshooting
 ===============
 1) Check your config permissions:
-	$ chown asterisk:asterisk /etc/asterisk/*.conf
+
+$ chown asterisk:asterisk /etc/asterisk/*.conf
+
 $ chmod 644 /etc/asterisk/*.conf
