@@ -85,8 +85,11 @@ specifically:
 (PLEASE READ THE security.txt FILE!)
 
     [admin]
+    
     secret = thiswouldbeaninsecurepassword
+    
     read = system,call,log,verbose,command,agent,config,read,write,originate
+    
     write = system,call,log,verbose,command,agent,config,read,write,originate
 
 Troubleshooting
