@@ -58,7 +58,9 @@ Installation
 ============
 
 ./configure
+
 make
+
 make install
 
 Configuration
