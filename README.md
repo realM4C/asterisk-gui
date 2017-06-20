@@ -57,9 +57,9 @@ and should reference the GUI project.
 Installation
 ============
 
-# ./configure
-# make
-# make install
+./configure
+make
+make install
 
 Configuration
 =============
